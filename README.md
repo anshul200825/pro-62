@@ -9,3 +9,4 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+https://snack-b075dbc7-1708-4f6d-a6ac-2c44ec064403-2a01fc2bd6e6457d855cd8b8a1d09cd2-signed.apk/
